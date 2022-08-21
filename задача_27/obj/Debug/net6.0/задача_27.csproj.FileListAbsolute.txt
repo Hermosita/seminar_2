@@ -1,0 +1,15 @@
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.csproj.AssemblyReference.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.AssemblyInfoInputs.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.AssemblyInfo.cs
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\bin\Debug\net6.0\задача_27.exe
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\bin\Debug\net6.0\задача_27.deps.json
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\bin\Debug\net6.0\задача_27.runtimeconfig.json
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\bin\Debug\net6.0\задача_27.dll
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\bin\Debug\net6.0\задача_27.pdb
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.dll
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\refint\задача_27.dll
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.pdb
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\задача_27.genruntimeconfig.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_27\obj\Debug\net6.0\ref\задача_27.dll
