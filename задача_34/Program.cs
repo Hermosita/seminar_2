@@ -34,3 +34,4 @@ Console.WriteLine();
 int quantity = QuantityPositive(numbers);
 Console.WriteLine($"Количество чётных чисел в массиве: {quantity}");
 
+
