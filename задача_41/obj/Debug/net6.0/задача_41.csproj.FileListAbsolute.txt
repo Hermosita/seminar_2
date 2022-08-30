@@ -1,0 +1,15 @@
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\bin\Debug\net6.0\задача_41.exe
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\bin\Debug\net6.0\задача_41.deps.json
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\bin\Debug\net6.0\задача_41.runtimeconfig.json
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\bin\Debug\net6.0\задача_41.dll
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\bin\Debug\net6.0\задача_41.pdb
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.csproj.AssemblyReference.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.AssemblyInfoInputs.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.AssemblyInfo.cs
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.dll
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\refint\задача_41.dll
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.pdb
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\задача_41.genruntimeconfig.cache
+C:\Users\Helen\Desktop\введение в программирование\семинар_2\задача_41\obj\Debug\net6.0\ref\задача_41.dll
